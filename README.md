@@ -1,2 +1,2 @@
-# GitTest1
-GitTest1
+# GitPractice
+GitPractice
